@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to Maitreya Kadkol's website"
 ---
 
-I'm glad you are here. I plan to talk about ...
+ನೀವು ಇಲ್ಲಿದ್ದೀರಿ ಎಂದು ನನಗೆ ಖುಷಿಯಾಗಿದೆ
